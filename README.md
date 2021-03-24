@@ -4,7 +4,7 @@
 ##  I’m a beginner *Front-end developer* from Minsk.
 
 
-### Check my blog:[ArtemEfimovich](https://www.instagram.com/artem.efimovich/)
+### LinkedIn:[ArtemEfimovich](https://www.linkedin.com/in/artem-efimovich-2a5730141/)
 
 
 
@@ -19,7 +19,6 @@
 
 ### 📧 Mail me: artemfender@gmail.com
 ### 📨 Telegram: @ArtemEfimovich
-
 
 >Failure is simply an opportunity to start again, but wiser.<br/>
 >***Henry Ford***
