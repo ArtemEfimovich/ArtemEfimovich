@@ -18,7 +18,7 @@
 ![HTML](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
 ### 📧 Mail me: artemfender@gmail.com
-### 📨 Telegram: @ArtemEfimovich
+### 📨 Telegram: [ArtemEfimovich](t.me/ArtemEfimovich)
 
 >Failure is simply an opportunity to start again, but wiser.<br/>
 >***Henry Ford***
